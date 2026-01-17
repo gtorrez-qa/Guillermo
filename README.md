@@ -50,7 +50,7 @@ My testing approach is based on:
 
 ## ⚙️ Tools & Technologies
 
-- **Languages:** JavaScript, TypeScript  
+- **Languages:** JavaScript, TypeScript , Python (Basic Scripting)
 - **Automation:** Playwright, Jest  
 - **API Testing:** Playwright API, Postman  
 - **Performance Testing:** JMeter  
