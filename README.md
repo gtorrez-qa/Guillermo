@@ -64,7 +64,7 @@ My testing approach is based on:
 
 ## 🔁 CI/CD Testing Flow
 
-![CI/CD Flow](pipeline.png)
+![CI/CD Flow](pipeline.png.png)
 ---
 
 ## 🎯 What I Focus On
