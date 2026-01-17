@@ -74,6 +74,18 @@ My goal is to continuously improve testing strategies and contribute to high-qua
 
 ---
 
+## 📌 Projects (Testing Showcase)
+
+| Project | Type of Testing | Tools | Link |
+|--------|------------------|-------|------|
+| SauceDemo E2E | End-to-End, Smoke, Regression | Playwright (TS) | [View repo](./projects/saucedemo-e2e) |
+| API Testing Starter | API, Integration | Playwright API / Postman | [View repo](./projects/api-testing) |
+| Jest Unit Tests | Unit | Jest | [View repo](./projects/jest-unit) |
+| Performance Testing | Load, Stress | JMeter | [View repo](./projects/jmeter-performance) |
+| CI/CD Pipeline | CI Validation | GitHub Actions | [View workflow](./.github/workflows/tests.yml) |
+
+---
+
 ## 📌 Notes
 All testing examples in this repository are performed using **demo and simulated environments** for learning and portfolio purposes.
 ---
