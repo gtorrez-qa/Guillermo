@@ -1,2 +1,67 @@
-# Guillermo
-This is a special repository.
+# QA Automation Portfolio
+
+![Risk-Based Testing](banner.png)
+
+## 👋 About Me
+I am a QA Engineer focused on quality-driven testing strategies, combining **manual testing**, **automation**, and **CI/CD validation** to ensure reliable and scalable software delivery.
+
+I have hands-on experience working with modern testing tools and applying **risk-based testing** principles to prioritize critical user flows.
+
+---
+
+## 🧠 Testing Philosophy
+I believe that quality is not about testing everything, but about **testing what matters most**.
+
+My testing approach is based on:
+- Risk-based testing
+- Business impact analysis
+- Early validation in CI/CD pipelines
+- Continuous improvement
+
+---
+
+## 🔍 Risk-Based Testing Strategy
+
+| Area | Risk Level | Impact | Testing Strategy |
+|------|-----------|--------|------------------|
+| Authentication | High | User access blocked | E2E + Regression |
+| Payments / Wallet | Critical | Financial loss | E2E + API testing |
+| Registration | Medium | Onboarding failure | Functional + Regression |
+| Navigation | Medium | Broken user flow | Smoke testing |
+| UI / Styling | Low | Visual issues | Exploratory testing |
+
+---
+
+## 🧪 Testing Types
+
+### Manual Testing
+- Functional testing  
+- Regression testing  
+- Smoke testing  
+- Exploratory testing  
+- UI / UX validation  
+
+### Automation Testing
+- Unit testing (Jest)
+- End-to-End testing (Playwright)
+- API testing
+- Regression automation
+- Smoke automation
+
+---
+
+## ⚙️ Tools & Technologies
+
+- **Languages:** JavaScript, TypeScript  
+- **Automation:** Playwright, Jest  
+- **API Testing:** Playwright API, Postman  
+- **Performance Testing:** JMeter  
+- **CI/CD:** GitHub Actions  
+- **Project Management:** Jira  
+- **Version Control:** Git / GitHub  
+
+---
+
+## 🔁 CI/CD Testing Flow
+
+
