@@ -64,4 +64,23 @@ My testing approach is based on:
 
 ## 🔁 CI/CD Testing Flow
 
+![CI/CD Flow](pipeline.png)
+
+---
+
+## 🎯 What I Focus On
+- Preventing bugs before reaching production
+- Ensuring critical business flows are protected
+- Reducing manual testing through automation
+- Improving release confidence
+
+---
+
+## 📌 Notes
+All testing examples in this repository are performed using **demo and simulated environments** for learning and portfolio purposes.
+---
+
+## 📫 Contact
+- GitHub: https://github.com/gtorrez-qa
+
 
