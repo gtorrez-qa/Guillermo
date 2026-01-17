@@ -1,7 +1,5 @@
 # QA Automation Portfolio
 
-![Risk-Based Testing](banner.png)
-
 ## 👋 About Me
 I am a QA Engineer focused on quality-driven testing strategies, combining **manual testing**, **automation**, and **CI/CD validation** to ensure reliable and scalable software delivery.
 
