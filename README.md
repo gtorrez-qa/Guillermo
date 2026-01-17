@@ -66,6 +66,7 @@ My testing approach is based on:
 ---
 
 ## 🎯 What I Focus On
+My goal is to continuously improve testing strategies and contribute to high-quality software releases
 - Preventing bugs before reaching production
 - Ensuring critical business flows are protected
 - Reducing manual testing through automation
